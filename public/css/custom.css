@@ -1,0 +1,78 @@
+html {
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: -136px;
+    left: 0;
+}
+
+footer ul li {
+    vertical-align: middle;
+}
+
+.contact-2 {
+    background-color: #f1f2f0;
+}
+
+.ranking thead th {
+    text-align: center !important;
+}
+
+#center_h2{
+    text-align: center;
+}
+
+.form-control reason {
+    width:200px;
+}
+
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+    white-space: nowrap;
+    justify-content: flex-end;
+    margin-right: 65%;
+}
+
+.card-body #tournament_button-label {
+    margin: 0 !important;
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding:10px 15px;
+    text-decoration: none;
+}
+
+.nav-tabs > li > a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+}
+
+ul.nav-tabs > li.active > a {
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: rgb(221, 221, 221);
+    border-bottom-color: transparent;
+}
+
+div.table-responsive,
+div.table-responsive > table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
