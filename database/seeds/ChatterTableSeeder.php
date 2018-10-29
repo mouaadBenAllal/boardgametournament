@@ -58,7 +58,7 @@ class ChatterTableSeeder extends Seeder
             0 => [
                 'id'                  => 3,
                 'chatter_category_id' => 1,
-                'title'               => 'Ik ben Jordin, ik ben nieuw hier!',
+                'title'               => '!',
                 'user_id'             => $userId,
                 'sticky'              => 0,
                 'views'               => 0,
@@ -79,7 +79,7 @@ class ChatterTableSeeder extends Seeder
                         'id'                    => 1,
                         'chatter_discussion_id' => 3,
                         'user_id'               => $userId,
-                        'body'                  => '<p>Mijn naam is Jordin, ik zal me even voorstellen.</p>',
+                        'body'                  => '<p>Mijn naam is ... k zal me even voorstellen.</p>',
                         'created_at' => '2016-08-18 14:27:56',
                         'updated_at' => '2016-08-18 14:27:56',
                     ]
