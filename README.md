@@ -1,9 +1,8 @@
 # BGT-4
 
 ###Teamleden:
-Jordin Brouwer - S1114648@student.windesheim.nl 
 
-Patrick Fliers - S1114661@student.windesheim.nl 
+Patrick Fliers - S1114661@student.windesheim.
 
 Gregory Goijaerts – S1115616@student.windesheim.nl
  
